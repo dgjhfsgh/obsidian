@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/testnotiz.md",
+                "file": "obsidian/Tagebuch oder so was.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testnotiz"
+              "title": "Tagebuch oder so was"
             }
           }
         ]
@@ -160,7 +160,7 @@
     "/obsidian/testnotiz.md",
     "/obsidian",
     "README.md",
-    "obsidian/testnotiz.md",
+    "obsidian/Tagebuch oder so was.md",
     "Unbenannt.base",
     "obsidian",
     "Unbenannt.canvas",
