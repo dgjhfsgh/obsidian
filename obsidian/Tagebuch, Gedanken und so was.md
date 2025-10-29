@@ -9,4 +9,4 @@
 - Ich bin happy, dass ich dieses Obsidian-Notizbuch endlich zum Laufen bekommen habe.
 - Fertig mit Englisch-Vokabeln Lernen.
 - Jetzt läuft Obsidian auch auf meinem PC.
-- 
+- Ich werde jetzt noch Musik hören und dann Schlafen
