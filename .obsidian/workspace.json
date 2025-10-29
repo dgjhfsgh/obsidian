@@ -151,7 +151,8 @@
               "title": "Gliederung von Tagebuch, Gedanken und so was"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

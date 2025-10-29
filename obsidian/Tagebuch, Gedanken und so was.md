@@ -7,5 +7,5 @@
 - Mathe-Hausaufgaben sind fertig.
 - Höre weiter Musik und denke darüber nach, was ich heute noch mache, abgesehen von Englisch-Vokabeln lernen und essen, aber wahrscheinlich schaue ich noch YouTube.
 - Ich bin happy, dass ich dieses Obsidian-Notizbuch endlich zum Laufen bekommen habe.
-- 
+- Fertig mit Englisch-Vokabeln Lernen.
 - Jetzt läuft es auch auf meinem PC.
