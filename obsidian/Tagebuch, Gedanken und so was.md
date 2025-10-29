@@ -1,5 +1,9 @@
 ####   29.10.2025:
-- nostalgie feelings beim musik hören.
-- habe ein horrorspiel über das thema fischen von Insym angeschaut angeschau und mich gefragt was ich in so einer situation machen würde. war insgesampt ein sehr unterhaltsames video.
-- später gehe ich noch vocabeln Lernen
-- jetzt wird erstmal Mathe gemacht
+- Nostalgie-Feelings beim Musik hören.
+- Habe ein Horrorspiel über das Thema Fischen von Insym angeschaut und mich gefragt, was ich in so einer Situation machen würde. War insgesamt ein sehr unterhaltsames Video.
+- Ich habe Englisch-Vokabeln geschrieben.
+- Später gehe ich noch raus zum Englisch-Vokabeln lernen.
+- Jetzt werden erstmal Mathe-Hausaufgaben gemacht.
+- Mathe-Hausaufgaben sind fertig.
+- Höre weiter Musik und denke darüber nach, was ich heute noch mache, abgesehen von Englisch-Vokabeln lernen und essen, aber wahrscheinlich schaue ich noch YouTube.
+- Ich bin happy, dass ich dieses Obsidian-Notizbuch endlich zum Laufen bekommen habe.
