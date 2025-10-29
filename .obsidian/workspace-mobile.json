@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/test.md",
+                "file": "obsidian/testnotiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "testnotiz"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "obsidian/test.md",
+            "file": "obsidian/testnotiz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
   "active": "1151589c01a40e70",
   "lastOpenFiles": [
     "README.md",
-    "obsidian/test.md",
+    "obsidian/testnotiz.md",
     "Unbenannt.base",
     "obsidian",
     "Unbenannt.canvas",
